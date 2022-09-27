@@ -11,7 +11,7 @@ When filling out an issue report, please include the following:
    * Mac: `%user%/.local/share/Midinous/log`
 4) Screenshots aren't required but could be helpful
 
-Generally when Midinous crashes the program will simply close, but there are other issues that appear that won't keep the program from running.
+Generally, when Midinous crashes, the program will simply close, but there are other issues that appear that won't keep the program from running.
 
 Thank you for reporting issues! You're helping to make this program better.
 
