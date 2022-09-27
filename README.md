@@ -28,5 +28,5 @@ Thank you for reporting issues! You're helping to make this program better.
 
 ## Donate
 
-* If you enjoy Open Midinous, please consider donating by purchasing my music (name your price):
+* If you enjoy Midinous but want to do more, please consider donating by purchasing my music (name your price):
     * https://nornec.bandcamp.com
