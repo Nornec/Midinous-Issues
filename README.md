@@ -1,6 +1,5 @@
 ## This repository is used to track issues related to the .NET Version of Midinous.
-
-## Midinous combines generative features with a grid-based GUI to offer a supplemental and unique compositional experience
+Midinous combines generative features with a grid-based GUI to offer a supplemental and unique compositional experience
 
 ## Join the Discord!
 
