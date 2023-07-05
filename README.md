@@ -1,6 +1,8 @@
 ## This repository is used to track issues related to the .NET Version of Midinous.
 Midinous combines generative features with a grid-based GUI to offer a supplemental and unique compositional experience
 
+# Looking for the latest manual?
+You can download the pdf from the repository. Look for your version above and download.
 # Looking for presets?
 You can download the `'save.zip'` file from the repository and place them in your save directory. See below for file locations.
 
